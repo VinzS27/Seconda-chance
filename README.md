@@ -6,7 +6,7 @@
 
 ![characters](https://github.com/user-attachments/assets/c49a5533-4b78-4a07-8bb0-50bf5a8179fe)
 
-<h2 id="title">Tutorial:</h2>
+<h2 id="title">Tutorial</h2>
 
 <p id="description">A short tutorial will explain the game mechanics.</p>
 
